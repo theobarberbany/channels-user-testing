@@ -1,0 +1,23 @@
+{
+  "name": "channels-user-testing",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theobarberbany/channels-user-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theobarberbany/channels-user-testing/issues"
+  },
+  "homepage": "https://github.com/theobarberbany/channels-user-testing#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
